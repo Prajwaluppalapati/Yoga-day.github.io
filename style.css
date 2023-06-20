@@ -1,0 +1,73 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp9355938.jpg);
+    background-size: cover;
+}
+h1{
+    font-family: Aboreto;
+    font-size: xxx-large;
+    text-align: center;
+    vertical-align: center;
+    margin-top: 100px;
+    background-color: #ffffcc;
+    border-radius: 50px;
+    position: absolute;
+    position: relative;
+}
+.img_1{
+    height: 400px;
+    width: 400px;
+    margin-left: 419px;
+    margin-top: -250px;
+}
+.home{
+    margin-left: 500px;
+    color: white;
+    font-family: Be Vietnam Pro;
+    border-style: none;
+    text-decoration: none;
+    font-size: x-large;
+    padding-right: 10px;
+}
+.home:hover{
+    border-bottom: solid white 0.1cm;
+}
+.about{
+    color: white;
+    font-family: Be Vietnam Pro;
+    border-style: none;
+    text-decoration: none;
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    position: relative;
+}
+.about:hover{
+    border-bottom: solid white 0.1cm;
+}
+.news{
+    color: white;
+    font-family: Be Vietnam Pro;
+    border-style: none;
+    text-decoration: none;
+    font-size: x-large;
+    padding-left: 10px;
+    position: absolute;
+    position: relative;
+}
+.news:hover{
+    border-bottom: solid white 0.1cm;
+}
+.Right_box_para{
+    font-family: Be Vietnam Pro;
+    Position: absolute;
+    position: relative;
+    margin-top: 50px;
+}
+.left_box_para{
+    font-family: Be Vietnam Pro;
+    Position: absolute;
+    position: relative;
+    margin-left: 670px; 
+    margin-top: -44px;
+}
